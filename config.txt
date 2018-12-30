@@ -1,4 +1,4 @@
-token= NTI3NTgzMDUwNjc5NDUxNjU5.Dwo0Vg.iIgKjSxh2puBr-FoglHYR1twINY
+token= NTI4OTAzNTY5OTQwOTM4Nzcz.DwpDXA.BYJo8YXkKpY_4uZUIziBqioouPk
 owner= 333140974865874944 
 prefix= M
 game= 
